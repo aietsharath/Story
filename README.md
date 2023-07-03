@@ -1,0 +1,2 @@
+# Story
+my git learning
